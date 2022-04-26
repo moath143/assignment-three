@@ -1,0 +1,18 @@
+{
+  "name": "sevenboom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-task-1": "nodemon sevenBoom.js",
+    "start-task-2": "nodemon evenOdd.js",
+    "start-task-3": "nodemon ticTac.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
